@@ -1,0 +1,40 @@
+Título del Puesto: Desarrollador Backend (Python)
+Ubicación: Remoto
+Tipo de Empleo: Tiempo Completo
+
+Resumen del Puesto:
+Estamos buscando un Desarrollador Backend apasionado por la creación de soluciones escalables y eficientes. Te unirás a un equipo ágil y serás responsable de diseñar, desarrollar y mantener nuestras APIs principales y la arquitectura de bases de datos. Si te encanta resolver problemas complejos y escribir código limpio y optimizado, este es tu lugar.
+
+Responsabilidades Clave:
+
+    Diseñar, desarrollar y mantener APIs RESTful utilizando Python (FastAPI o Django).
+
+    Optimizar consultas a bases de datos relacionales (PostgreSQL) para asegurar tiempos de respuesta rápidos.
+
+    Integrar servicios de terceros y APIs externas de manera segura.
+
+    Escribir pruebas unitarias y de integración para garantizar la calidad del código.
+
+    Colaborar estrechamente con el equipo de Frontend para definir los contratos de las APIs.
+
+    Participar en revisiones de código (Code Reviews) y proponer mejoras en la arquitectura.
+
+Requisitos Técnicos (Hard Skills):
+
+    Experiencia demostrable de 2 a 3 años programando en Python.
+
+    Sólido conocimiento en frameworks web como FastAPI, Django o Flask.
+
+    Experiencia trabajando con bases de datos SQL (PostgreSQL, MySQL).
+
+    Manejo de control de versiones utilizando Git y GitHub/GitLab.
+
+    Conocimientos básicos de contenedores (Docker) y despliegue en la nube (AWS o Google Cloud).
+
+Habilidades Blandas (Soft Skills):
+
+    Capacidad para trabajar de forma autónoma y en equipo.
+
+    Fuertes habilidades de comunicación y resolución de problemas.
+
+    Mentalidad de aprendizaje continuo y adaptación a nuevas tecnologías.

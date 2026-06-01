@@ -1,0 +1,46 @@
+Aquí tienes una descripción de vacante (Job Description) para el área de Ciberseguridad, diseñada para hacer un excelente "match" con el CV que acabamos de crear.
+
+Al igual que la anterior, está estructurada para que tu aplicación ATS pueda extraer fácilmente las responsabilidades y palabras clave. Puedes copiar todo el texto entre las líneas separadoras para hacer tus pruebas en Streamlit:
+
+Título del Puesto: Analista de Ciberseguridad (Blue Team / SOC)
+Ubicación: Remoto
+Tipo de Empleo: Tiempo Completo
+
+Resumen del Puesto:
+Estamos en la búsqueda de un Analista de Ciberseguridad proactivo para integrarse a nuestro Centro de Operaciones de Seguridad (SOC). Serás la primera línea de defensa de nuestra infraestructura corporativa, encargado de monitorear, detectar y responder a incidentes de seguridad en tiempo real. Buscamos a alguien con una mentalidad analítica, capaz de gestionar herramientas avanzadas de defensa y mantener el cumplimiento de normativas internacionales de seguridad.
+
+Responsabilidades Clave:
+
+    Monitorear continuamente el tráfico de la red y los sistemas utilizando herramientas SIEM (como Splunk o QRadar) para identificar actividades anómalas.
+
+    Liderar la respuesta a incidentes de seguridad, conteniendo y mitigando amenazas como malware, ransomware o intentos de intrusión mediante plataformas EDR.
+
+    Realizar evaluaciones periódicas de vulnerabilidades utilizando herramientas como Nessus y coordinar la aplicación de parches con los equipos de infraestructura.
+
+    Configurar y administrar firewalls, sistemas de prevención de intrusiones (IPS/IDS) y arquitecturas de red seguras.
+
+    Desarrollar y mantener scripts de automatización para agilizar la recopilación de logs y la auditoría de sistemas.
+
+    Apoyar en la capacitación de los empleados mediante campañas de concientización sobre phishing e ingeniería social.
+
+Requisitos Técnicos (Hard Skills):
+
+    Experiencia demostrable de 2 a 4 años en operaciones de seguridad (SOC) o defensa de redes (Blue Team).
+
+    Dominio en el uso y configuración de plataformas SIEM y herramientas EDR (CrowdStrike, SentinelOne).
+
+    Conocimiento profundo de protocolos de red y administración de firewalls (Fortinet, Palo Alto).
+
+    Experiencia ejecutando escaneos de vulnerabilidades y aplicando marcos de trabajo de ciberseguridad (NIST CSF, ISO 27001).
+
+    Capacidad para escribir scripts en Python, Bash o PowerShell.
+
+    Se valorarán altamente certificaciones de la industria como CompTIA Security+, CEH o similares.
+
+Habilidades Blandas (Soft Skills):
+
+    Excelente capacidad para mantener la calma y tomar decisiones rápidas bajo presión durante incidentes críticos.
+
+    Habilidades de comunicación excepcionales para traducir riesgos técnicos a reportes ejecutivos.
+
+    Pensamiento analítico profundo para la investigación forense y la resolución de problemas complejos.
