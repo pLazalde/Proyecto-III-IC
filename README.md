@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva impulsada por Inteligencia Artificial Generativa que evalúa currículums contra descripciones de vacantes (Job Descriptions). El sistema simula el comportamiento de un Applicant Tracking System (ATS) estricto, calculando el porcentaje de compatibilidad, identificando palabras clave faltantes y sugiriendo mejoras en la redacción de la experiencia utilizando la metodología STAR.
 
-Video Presentacion: 
+Video Presentacion: https://drive.google.com/file/d/1_dFBhCUnl1CpKi2ohoH621yCWCBQQFtw/view?usp=sharing
 
 ---
 
