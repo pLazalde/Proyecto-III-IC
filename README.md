@@ -32,5 +32,6 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 ```bash
 git clone [URL_DE_TU_REPOSITORIO]
 cd [NOMBRE_DE_LA_CARPETA]
-
+```
+**2. Comando***
 ('streamlit run main.py') para correr el programa
