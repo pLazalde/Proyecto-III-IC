@@ -1,10 +1,10 @@
-# 🚀 Optimizador de CV con IA (ATS Matcher)
+# Optimizador de CV con IA (ATS Matcher)
 
 Una aplicación web interactiva impulsada por Inteligencia Artificial Generativa que evalúa currículums contra descripciones de vacantes (Job Descriptions). El sistema simula el comportamiento de un Applicant Tracking System (ATS) estricto, calculando el porcentaje de compatibilidad, identificando palabras clave faltantes y sugiriendo mejoras en la redacción de la experiencia utilizando la metodología STAR.
 
 ---
 
-## 🏗️ Arquitectura de la Solución
+## Arquitectura de la Solución
 
 El proyecto está diseñado siguiendo una arquitectura cliente-servidor simplificada, utilizando las siguientes tecnologías:
 
@@ -32,3 +32,5 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 ```bash
 git clone [URL_DE_TU_REPOSITORIO]
 cd [NOMBRE_DE_LA_CARPETA]
+
+('streamlit run main.py') para correr el programa
