@@ -2,6 +2,8 @@
 
 Una aplicación web interactiva impulsada por Inteligencia Artificial Generativa que evalúa currículums contra descripciones de vacantes (Job Descriptions). El sistema simula el comportamiento de un Applicant Tracking System (ATS) estricto, calculando el porcentaje de compatibilidad, identificando palabras clave faltantes y sugiriendo mejoras en la redacción de la experiencia utilizando la metodología STAR.
 
+Video Presentacion: 
+
 ---
 
 ## Arquitectura de la Solución
@@ -36,3 +38,24 @@ cd [NOMBRE_DE_LA_CARPETA]
 **2. Comando**
 
 (`streamlit run main.py`) para correr el programa
+
+
+**Ejemplo de .env**
+
+```bash
+OPENAI_API_KEY="pega_aqui_tu_clave"
+OPENAI_MODEL="gpt-4o-mini"
+OPENAI_TEMPERATURE="0.3"
+```
+
+**Librerias utilizadas**
+```bash
+import streamlit as st
+from openai import OpenAI
+import os
+import PyPDF2
+from dotenv import load_dotenv
+from fpdf import FPDF
+```
+
+
